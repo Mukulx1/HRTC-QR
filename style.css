@@ -1,0 +1,53 @@
+*{
+    margin: 0cm;
+    padding: 0cm;
+    text-align: center;
+}
+.nt{
+    background-color: green;
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+h1{
+    padding: 35px;
+}
+.cage{
+   display: flex;
+   width: 95%;
+   margin-left:0.5cm;
+   border-radius: 50%;
+}
+.photo{
+    width: 50%;
+    flex: 1;
+}
+.data{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    margin-left: 0.5cm;
+}
+h6{
+    text-align: left;
+
+}
+
+.status{
+background-color: green;
+width: 50%;
+color: white;
+margin: 1cm auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
